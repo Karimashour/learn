@@ -13,4 +13,4 @@ https://karimashour.github.io/learn/
 
 
 # features
-- squash sport landing page 
+- learn website landing page 
